@@ -1,6 +1,2 @@
-# RiscV-CS (Custom Shop)
-RISC-V cores with an integrated Performance Monitoring Unit (PMU) for performance analysis and optimization. 
-- Single Cycle core
-- 5 stage pipelined core
-- L1 cache with 5 stage pipelined
-- Superscalar (in order)
+# RTL-CS (Custom Shop)
+This repository serves as a hardware development sandbox for CPU design. It features single-cycle and pipelined RISC-V cores, along with independent hardware accelerators and modules, including a Floating-Point Unit (FPU), ALU, and dedicated encryption units.
